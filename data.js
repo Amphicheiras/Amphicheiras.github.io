@@ -141,7 +141,7 @@ export const projects = {
       summary: 'DJ set as Serrated Margin at a festival in Greece.',
       preview:
           'https://soundcloud.com/tongas_serrated_margin/serrated-margin-rise-of-the-spirit-dj-set-2021',
-      techStack: ['Sound Design', 'Music Composition'],
+      techStack: ['Audio Mixing', 'Stage Performance'],
     },
     {
       projectName: 'Chypno & Serrated Margin',
