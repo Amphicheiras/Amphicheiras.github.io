@@ -136,9 +136,17 @@ export const projects = {
       techStack: ['Sound Design', 'Music Composition', 'Mix/Master'],
     },
     {
+      projectName: 'DJ set as Serrated Margin',
+      image: 'images/sermanDJ.png',
+      summary: 'DJ set as Serrated Margin at a festival in Greece.',
+      preview:
+          'https://soundcloud.com/tongas_serrated_margin/serrated-margin-rise-of-the-spirit-dj-set-2021',
+      techStack: ['Sound Design', 'Music Composition'],
+    },
+    {
       projectName: 'Chypno & Serrated Margin',
       image: 'images/marginCollab.png',
-      summary: 'Nightime electronic music collaboration project with Chypno. ',
+      summary: 'Nightime electronic music collaboration project with Chypno.',
       preview:
           'https://soundcloud.com/chypno_music/chypno-serrated-margin-subatomic-particles-va-ominous-fumes-2',
       techStack: ['Sound Design', 'Music Composition'],
@@ -147,7 +155,7 @@ export const projects = {
   universityProjects: [
     {
       projectName: 'Multi-Cycle Pipeline Processor Architecture',
-      // image: 'images/multicycleProcessor.png',
+      image: 'images/vhdl.png',
       summary:
           'CHARIS-4 (Chania RISC Instruction Set v.4) Processor Architecture.',
       preview:
@@ -156,7 +164,7 @@ export const projects = {
     },
     {
       projectName: 'Assembly Maze Solver',
-      // image: 'images/multicycleProcessor.png',
+      image: 'images/maze.png',
       summary:
           'MIPS assembly programm that solves a given maze using recursive.',
       preview: 'https://github.com/Amphicheiras/MIPS-Assembly-Maze-Solver',
@@ -164,7 +172,7 @@ export const projects = {
     },
     {
       projectName: 'Quantum Walks Quantum-Classical Phase Transition ',
-      // image: 'images/multicycleProcessor.png',
+      image: 'images/thesis.png',
       summary:
           'University research thesis on QW\' s quantum-classical phase transition.',
       preview:
@@ -173,7 +181,7 @@ export const projects = {
     },
     {
       projectName: 'Quantum Error Correction Codes',
-      // image: 'images/multicycleProcessor.png',
+      image: 'images/bitflip.png',
       summary:
           'Basics of Quantum Noise and Quantum Error Correction. Description of phase flip error, amplitude error, and explanations ofthe 3-bit and 5-bit error correcting codes.',
       preview: 'https://github.com/Amphicheiras/Quantum-Error-Correction-Codes',
