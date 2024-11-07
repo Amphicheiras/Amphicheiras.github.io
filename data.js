@@ -135,6 +135,14 @@ export const projects = {
           'https://liquidseedrecordings.bandcamp.com/album/dragonfly-effect',
       techStack: ['Sound Design', 'Music Composition', 'Mix/Master'],
     },
+    {
+      projectName: 'Chypno & Serrated Margin',
+      image: 'images/marginCollab.png',
+      summary: 'Nightime electronic music collaboration project with Chypno.',
+      preview:
+          'https://soundcloud.com/chypno_music/chypno-serrated-margin-subatomic-particles-va-ominous-fumes-2',
+      techStack: ['Sound Design', 'Music Composition'],
+    },
   ],
   universityProjects: [
     {
