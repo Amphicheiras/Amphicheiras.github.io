@@ -565,6 +565,7 @@ body.offcanvas .colorlib-nav-toggle {
 .colorlib-projects,
 .colorlib-education,
 .colorlib-blogs,
+.colorlib-awards,
 .colorlib-work,
 .colorlib-about,
 .colorlib-installation,
@@ -598,6 +599,10 @@ body.offcanvas .colorlib-nav-toggle {
 	}
 	
 	.colorlib-blogs {
+		display: none;
+	}
+	
+	.colorlib-awards {
 		display: none;
 	}
 
