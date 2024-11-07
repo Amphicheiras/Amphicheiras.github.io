@@ -1,4 +1,4 @@
-import {bio, certificationsAndAwards, education, experience, footer, projects, skills,} from './data.js';
+import {bio, certifications, awards, education, experience, footer, projects, skills,} from './data.js';
 import {URLs} from './user-data/urls.js';
 
 const {
@@ -551,9 +551,10 @@ populateProjects(audioProjects, 'audio-projects');
 populateProjects(universityProjects, 'university-projects');
 // populateProjects(moocProjects, 'mooc-projects');
 
-populateResearch(certificationsAndAwards, 'certifications-awards-section');
-
 populateExp_Edu(experience, 'experience');
 populateExp_Edu(education, 'education');
+
+populateResearch(certifications, 'certifications-section');
+populateResearch(awards, 'awards-section');
 
 populateLinks(footer, 'footer');

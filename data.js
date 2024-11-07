@@ -210,7 +210,7 @@ export const projects = {
   // ],
 };
 
-export const certificationsAndAwards = [
+export const certifications = [
   {
     title: 'Beginning C++ Programming - From Beginner to Beyond',
     description: '',
@@ -277,15 +277,17 @@ export const certificationsAndAwards = [
     ],
     date: '2022'
   },
+];
+
+export const awards = [
   {
     title:
         'World Robotics Olympiad RoboMission – 1st place (Crete), 4th place (Greece)',
     // image: 'images/wro.jpg',
     keywords: ['Robotics', 'Team Leadership'],
     date: '2013'
-  }
+  },
 ];
-
 
 
 export const experience = [
@@ -348,7 +350,7 @@ export const experience = [
 
 export const education = [
   {
-    title: 'BSE & MEng in Electrical & Computer Engineer',
+    title: 'BSE & MEng in Electrical & Computer Engineering',
     duration: '2022',
     subtitle: 'Technical University of Crete',
     details: [],
