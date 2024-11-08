@@ -106,7 +106,7 @@ export const projects = {
       image: 'images/controller2.jpg',
       summary:
           'Pixie Gauntlet - Compact wireless MIDI controller, focused on circuit design, code development, and motion tracking.',
-      preview: 'https://github.com/Amphicheiras/Pixie-Gauntlet',
+      preview: 'https://github.com/Amphicheiras',
       techStack: ['C++', 'ESP32', 'Embedded Systems', 'Sensors'],
     },
     {
@@ -114,7 +114,7 @@ export const projects = {
       image: 'images/controller1.jpg',
       summary:
           'DIY electronic musical instrument using the ESP32 microcontroller.',
-      preview: 'https://github.com/Amphicheiras/Wireless-MIDI-controller-DEMO',
+      preview: 'https://github.com/Amphicheiras',
       techStack: ['C++', 'ESP32', 'Embedded Systems', 'Sensors'],
     },
   ],
@@ -292,8 +292,7 @@ export const awards = [
     title:
         'World Robotics Olympiad RoboMission – 1st place (Crete), 4th place (Greece)',
     image: 'images/wro.jpg',
-    link:
-        'https://www.youtube.com/watch?v=msjjqIeK3W0',
+    link: 'https://www.youtube.com/watch?v=msjjqIeK3W0',
     keywords: ['Robotics', 'Team Leadership'],
     date: '2013'
   },
