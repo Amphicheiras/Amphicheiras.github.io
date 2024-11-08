@@ -1,5 +1,5 @@
 export const bio = [
-  'Hello. I’m Aristotelis Symeonakis, an ambitious Electrical & Computer Engineer and Musician dedicated to provide innovative software and embedded solutions.',
+  'Hello. I’m Aristotelis Symeonakis, an ambitious Electrical & Computer Engineer and Musician dedicated to providing innovative software and embedded solutions.',
   'I thrive on continuous learning and am driven by the challenge of tackling complex, boundary-pushing tasks in audio technology and other interesting topics.',
   'Thanks for visiting!',
   '<strong>`*~. Page Under Construction .~*`</strong>',
@@ -166,7 +166,7 @@ export const projects = {
       projectName: 'Assembly Maze Solver',
       image: 'images/maze.png',
       summary:
-          'MIPS assembly programm that solves a given maze using recursive.',
+          'MIPS assembly programm that solves a given maze using recursive functions.',
       preview: 'https://github.com/Amphicheiras/MIPS-Assembly-Maze-Solver',
       techStack: ['MIPS Assembly'],
     },
@@ -291,7 +291,9 @@ export const awards = [
   {
     title:
         'World Robotics Olympiad RoboMission – 1st place (Crete), 4th place (Greece)',
-    // image: 'images/wro.jpg',
+    image: 'images/wro.jpg',
+    link:
+        'https://www.youtube.com/watch?v=msjjqIeK3W0',
     keywords: ['Robotics', 'Team Leadership'],
     date: '2013'
   },
