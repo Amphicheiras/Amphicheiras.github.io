@@ -2,7 +2,6 @@ export const bio = [
   'Hello. I’m Aristotelis Symeonakis, an ambitious Electrical & Computer Engineer and Musician dedicated to providing innovative software and embedded solutions.',
   'I thrive on continuous learning and am driven by the challenge of tackling complex, boundary-pushing tasks in audio technology and other interesting topics.',
   'Thanks for visiting!',
-  '<strong>`*~. Page Under Construction .~*`</strong>',
 ];
 
 export const skills = [
